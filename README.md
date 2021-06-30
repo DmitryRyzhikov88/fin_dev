@@ -1,9 +1,6 @@
 <h1>Список файлов по работе с финансовой разработкой</h1>
 <p>Таблица с поянением функционала файла и его расположение на гугл диске</p>
-<style type="text/css">
-    <!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
-    -->
-</style>
+
 <table border="1" cellpadding="0" cellspacing="0" dir="ltr" style="table-layout:fixed;font-size:10pt;font-family:Arial;width:0px;border-collapse:collapse;border:none;" xmlns="http://www.w3.org/1999/xhtml">
     <tbody>
         <tr style="height:21px;">
