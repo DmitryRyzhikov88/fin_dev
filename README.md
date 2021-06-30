@@ -1,17 +1,5 @@
-# fin_dev
-<h1>11111dfbsgfbfgs<h1>
-
-
-<p>gkbjdnfglbndlgfbnlfgnlfgn</p>
-
-
-<h2>kdjfnksjfgnbfgnbojfgnbo</h2>
-
-
-<ul>
-<li>dfbfgbfgbb</li>
-
-</ul>
+<h1>Список файлов по работе с финансовой разработкой<h1>
+<p>Таблица с поянением функционала файла и его расположение на гугл диске</p>
 <style type="text/css">
     <!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
     -->
