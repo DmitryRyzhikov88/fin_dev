@@ -16,12 +16,12 @@
 
 Наша методика расчета:
 Считаем доходность за моследние 12 месяцев. Если она положительная, то фактор равен 1, иначе 0.
-'''
+```
 prices = price_yahoo_main[yahoo_ticker_list].asfreq('BM')
 prices_yearly_returns = prices.pct_change(12)
 prices_yearly_signal = np.where(prices_yearly_returns[str(int(cheked_year)+i)].iloc[-1] > 0, 1, 0)
 Data_for_Portfolio_master_filter['Momentum Score'] = prices_yearly_signal
-'''
+```
 Далее этот фактор просто прибавляется в основной Total Score.
 
 ### 2. Trend - фактор Тренда
