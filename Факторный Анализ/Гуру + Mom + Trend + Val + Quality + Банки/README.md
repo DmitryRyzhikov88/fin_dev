@@ -1,4 +1,4 @@
-Стратегия Mom2.0 + Trend2.0 + Valuation2.0 + Quality2.0
+Стратегия Mom2.0 + Trend2.0 + Valuation2.0 + Quality2.0 + Банки
 
 Стратегия в файле python notebook.
 
