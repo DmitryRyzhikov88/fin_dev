@@ -229,4 +229,4 @@
     </tbody>
 </table>
 <p><a href="https://flowwow.fr/">flowwow.fr</p>
-<p><a href="https://flowwow.com/moscow/">flowwow.fr</p>
+<p><a href="https://flowwow.com/moscow/">https://flowwow.com/moscow/</p>
